@@ -1,5 +1,5 @@
 # BTreal_estate_Django
-Django real estate website  for buying and selling houses made using Django and bootstrap4. Any user can register and make a listing for selling a property 🏘️
+Django real estate website  
 
 # PropShop Ecommerce Website With Django + React
 

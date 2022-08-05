@@ -14,6 +14,8 @@ FRONTEND PAGES
 	•	Dashboard (Inquiries)
 
 DESIGN SPECS
+
+
 	•	Use BTRE logo (Frontend and admin)
 	•	Branding colors – blue(#10284e) green(#30caa0)
 	•	Mobile Friendly
@@ -22,6 +24,8 @@ DESIGN SPECS
 
 
 FUNCTIONALITY SPECS
+
+
 	•	Manage listings, realtors, contact inquiries and website users via admin
 	•	Role based users (staff and non-staff)
 	•	Display listings in app with pagination
@@ -53,6 +57,8 @@ LISTING PAGE FIELDS
 	•	Main image and 5 other images
 
 Possible Future Functionality
+
+
 	•	Google maps on listing page
 	•	Buyer testimonials
 

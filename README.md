@@ -3,12 +3,7 @@ Django real estate website  for buying and selling houses made using Django and 
 
 # PropShop Ecommerce Website With Django + React
 
-Live Demo can be viewed at https://www.buildproshop.com/
-
-This project is from my Django + React collaboration wih Brad Traversy. Full Course: https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1
-
-
-
+Live Demo can be viewed at: 
 
 
 # Features

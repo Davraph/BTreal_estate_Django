@@ -1,6 +1,7 @@
 # BTreal_estate_Django
 Django real estate website  
 
+![Screen Shot 2022-08-07 at 8 54 32 PM](https://user-images.githubusercontent.com/98242760/183308364-8b2066e1-7f9e-4f07-a0f9-b7538b742b17.png)
 
 FRONTEND PAGES
 
